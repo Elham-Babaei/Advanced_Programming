@@ -38,7 +38,7 @@ The struct `node` is defined to store the pairs of key and value.
 The class `iterator`, is defined as a *forwarding iterator* to traverse the tree inorder.
 #### Private members
 - A raw pointer to a node
-#### Public interface
+#### Public members
 - Default constructor and destructor
 - Custom constructor that takes a pointer to a node and creates an iterator pointing to that node
 - Pre-increment operator 
