@@ -1,5 +1,4 @@
 # Advanced Programming exam 2020/2021
-### Elham Babaei SM3500466
 ### Binary Search Tree
 
 ## Problem statement
